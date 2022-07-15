@@ -1,7 +1,7 @@
 # Marketing-Campaign-Analytics
 <img src="https://www.pccwsolutions.com/site/dist/images/solutions/banner-campaign-monitoring-marketing-analytics.jpg"></img><br/>
 Marketing campaign analytics for food delivery and building of profit prediction model and customer segementation
-<h2 style="color:3AB4F2"> Use Case: Food Delivery App Data</h2>
+<h2 style='color:3AB4F2'> Use Case: Food Delivery App Data</h2>
 <h4>Overview</h4>
 The company has around several hundred thousands of registered customers and serve almost one million consumers a year.
 They sell products from 5 major categories
